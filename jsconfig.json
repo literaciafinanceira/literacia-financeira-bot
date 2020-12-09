@@ -3,7 +3,13 @@
     "module": "esnext",
     "moduleResolution": "node",
     "target": "es6",
+    "resolveJsonModule": true,
     "checkJs": true
+  },
+  "typeAcquisition": {
+    "include": [
+      "jest",
+    ],
   },
   "exclude": [
     "node_modules"
