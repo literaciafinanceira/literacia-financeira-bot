@@ -66,7 +66,7 @@ npm install
 
 ## Docker
 
-> I'll be using **literaciafinanceira** and **literacia-financeira-bot** as example.
+> I'll be using **literaciafinanceira** and **literacia-financeira-bot** as an example.
 >
 > Feel free to change to meet your requirements
 
@@ -88,7 +88,7 @@ npm build && npm start
 
 ## Docker
 
-> I'll be using **literaciafinanceira** and **literacia-financeira-bot** as example.
+> I'll be using **literaciafinanceira** and **literacia-financeira-bot** as an example.
 >
 > Please use whatever you set when building the image [here](#build)
 
